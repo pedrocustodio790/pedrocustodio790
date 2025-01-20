@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou [Seu Nome] 👋
 
-<!--
-**pedrocustodio790/pedrocustodio790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, estou cursando **Técnico em Desenvolvimento de Sistemas** no [SENAI](https://www.sp.senai.br/). Sempre estou em busca de novas oportunidades de aprendizado e crescimento na área da tecnologia.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
+- 📚 Estudando **Desenvolvimento de Sistemas**
+- 💼 Procurando **oportunidades de emprego** na área de desenvolvimento de software
+- 🔍 Interessado em **back-end development**, **front-end development**, e **aprendizado de máquina**
+- 🎮 Nas horas vagas, gosto de montar baralhos de **Yu-Gi-Oh** que so me estressa e me faz perder cabelo
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+Obrigado pela visita! 😄
