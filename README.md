@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou pedro henrique 👋
 
 Atualmente, estou cursando **Técnico em Desenvolvimento de Sistemas** no [SENAI](https://www.sp.senai.br/). Sempre estou em busca de novas oportunidades de aprendizado e crescimento na área da tecnologia.
 
